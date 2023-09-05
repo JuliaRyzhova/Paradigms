@@ -9,4 +9,4 @@
 
 Написать точно такую же процедуру, но в декларативном стиле
 
-[Реализация]()
+[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/imperative_and_declarative_paradigms)
