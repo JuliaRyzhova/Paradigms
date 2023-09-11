@@ -40,4 +40,4 @@
 
 1 * 9 = 9
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/imperative_and_declarative_paradigms)
+[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/structural_and_procedural_programming)
